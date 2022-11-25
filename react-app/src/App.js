@@ -127,6 +127,7 @@ function App() {
           break;
         }
       }
+      
       setTopics(newTopics);
       setMode('READ');
     }}></Update>
